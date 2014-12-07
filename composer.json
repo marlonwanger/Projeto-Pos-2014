@@ -1,0 +1,16 @@
+{
+    "name": "grupo/projetoposoo",
+    "description": "Projeto Pos - PHP OO",
+    "authors": [
+        {
+            "name": "Marlon,Claudia,Darlan,Diones,Allan",
+            "email": "grupo2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Controller\\" : "application/Controller"
+        }
+    },
+    "require": {}
+}
